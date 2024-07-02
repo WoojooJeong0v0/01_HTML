@@ -4,3 +4,9 @@
 HTML 
 Hyper Text Markup Language 약자
 : 태그로 작성하면 그대로 해석되어 화면에 표시 됨
+
+body 태그
+- 브라우저에 표시되는 내용을 작성하는 태그
+
+head 태그
+- html 문서를 정의하는 내용을 작성하는 태그
